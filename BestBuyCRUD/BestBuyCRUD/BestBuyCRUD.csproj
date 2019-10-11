@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <Content Include="bin\Debug\netcoreapp2.1\connectionString.txt" />
+    <Content Include="bin\Debug\netcoreapp2.1\Log.txt" />
   </ItemGroup>
 
   <ItemGroup>
